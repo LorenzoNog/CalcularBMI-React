@@ -11,7 +11,7 @@ Es un simulador de una calculadora de BMI, en ella se introducen los datos suger
 
 - [@LorenzoNog](https://www.github.com/LorenzoNog)
 
-## Desarrollado con:
+## ⚒️ Desarrollado con:
 - [Create react app]
 
 ## Se utiliza en el:
@@ -21,7 +21,7 @@ Es un simulador de una calculadora de BMI, en ella se introducen los datos suger
 - REACT JS
 - HTML
 
-##Deployment:
+## Deployment:
 Para desplegar el proyecto:
 
 - Clonar el repositorio mediante 'git clone' + link del rel mismo.
